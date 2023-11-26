@@ -10,7 +10,7 @@ require('greenlock-express')
     server: 'https://acme-v02.api.letsencrypt.org/directory',
     email: 'ducclone00@gmail.com',
     agreeTos: true,
-    approveDomains: ['ducph.info', 'www.ducph.info'],
+    approveDomains: ['ducph.click', 'www.ducph.click'],
     store: require('greenlock-store-fs'),
     configDir: homeDir,
     app: app,
