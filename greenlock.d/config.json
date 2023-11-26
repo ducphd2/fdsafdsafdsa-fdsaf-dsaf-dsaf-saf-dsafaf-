@@ -12,13 +12,12 @@
     "renewStagger": "3d",
     "accountKeyType": "EC-P256",
     "serverKeyType": "RSA-2048",
-    "subscriberEmail": "ducphd2@gmail.com"
+    "subscriberEmail": "phamhuynhduc02122000@gmail.com"
   },
   "sites": [
     {
-      "subject": "ducph.info",
-      "altnames": ["ducph.info"],
-      "renewAt": 1
+      "subject": "mihealthcare.click",
+      "altnames": ["mihealthcare.click"]
     }
   ]
 }
